@@ -1,0 +1,64 @@
+[28-Dec-2021 12:42:18 Asia/Jakarta] PHP Notice:  Undefined index: login in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/index.php on line 7
+[28-Dec-2021 12:42:18 Asia/Jakarta] PHP Notice:  Undefined index: sts_akun in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/index.php on line 15
+[28-Dec-2021 12:42:18 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/index.php on line 23
+[28-Dec-2021 12:42:18 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/index.php on line 30
+[28-Dec-2021 12:42:18 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/index.php on line 56
+[28-Dec-2021 12:42:18 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/index.php on line 68
+[28-Dec-2021 12:42:18 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/index.php on line 75
+[28-Dec-2021 12:42:18 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/templates/sidebar/menu/detailpc.php on line 17
+[28-Dec-2021 12:42:18 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/templates/sidebar/menu/detailpc.php on line 21
+[28-Dec-2021 12:42:18 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/templates/sidebar/menu/detailpc.php on line 28
+[28-Dec-2021 15:36:45 Asia/Jakarta] PHP Notice:  Undefined index: login in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/index.php on line 7
+[28-Dec-2021 15:36:45 Asia/Jakarta] PHP Notice:  Undefined index: sts_akun in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/index.php on line 15
+[28-Dec-2021 15:36:45 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/index.php on line 23
+[28-Dec-2021 15:36:45 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/index.php on line 30
+[28-Dec-2021 15:36:45 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/index.php on line 56
+[28-Dec-2021 15:36:45 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/index.php on line 68
+[28-Dec-2021 15:36:45 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/index.php on line 75
+[28-Dec-2021 15:36:45 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/templates/sidebar/menu/detailpc.php on line 17
+[28-Dec-2021 15:36:45 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/templates/sidebar/menu/detailpc.php on line 21
+[28-Dec-2021 15:36:45 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/templates/sidebar/menu/detailpc.php on line 28
+[20-Feb-2022 17:17:55 Asia/Jakarta] PHP Notice:  Undefined index: login in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/index.php on line 7
+[20-Feb-2022 17:17:55 Asia/Jakarta] PHP Notice:  Undefined index: sts_akun in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/index.php on line 15
+[20-Feb-2022 17:17:55 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/index.php on line 23
+[20-Feb-2022 17:17:55 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/index.php on line 30
+[20-Feb-2022 17:17:55 Asia/Jakarta] PHP Notice:  Undefined index: online in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/index.php on line 40
+[20-Feb-2022 17:17:55 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/index.php on line 56
+[20-Feb-2022 17:17:55 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/index.php on line 68
+[20-Feb-2022 17:17:55 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/index.php on line 75
+[20-Feb-2022 17:17:55 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/templates/sidebar/menu/home.php on line 16
+[20-Feb-2022 17:17:55 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/templates/sidebar/menu/home.php on line 20
+[20-Feb-2022 17:17:55 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/templates/sidebar/menu/home.php on line 27
+[14-Mar-2022 08:46:10 Asia/Jakarta] PHP Notice:  Undefined index: login in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/index.php on line 7
+[14-Mar-2022 08:46:10 Asia/Jakarta] PHP Notice:  Undefined index: sts_akun in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/index.php on line 15
+[14-Mar-2022 08:46:10 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/index.php on line 23
+[14-Mar-2022 08:46:10 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/index.php on line 30
+[14-Mar-2022 08:46:10 Asia/Jakarta] PHP Notice:  Undefined index: online in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/index.php on line 40
+[14-Mar-2022 08:46:10 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/index.php on line 56
+[14-Mar-2022 08:46:10 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/index.php on line 68
+[14-Mar-2022 08:46:10 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/index.php on line 75
+[14-Mar-2022 08:46:10 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/templates/sidebar/menu/rekap_alat.php on line 17
+[14-Mar-2022 08:46:10 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/templates/sidebar/menu/rekap_alat.php on line 21
+[14-Mar-2022 08:46:10 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/templates/sidebar/menu/rekap_alat.php on line 28
+[20-Jul-2022 13:34:06 Asia/Jakarta] PHP Notice:  Undefined index: login in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/index.php on line 7
+[20-Jul-2022 13:34:06 Asia/Jakarta] PHP Notice:  Undefined index: sts_akun in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/index.php on line 15
+[20-Jul-2022 13:34:06 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/index.php on line 23
+[20-Jul-2022 13:34:06 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/index.php on line 30
+[20-Jul-2022 13:34:06 Asia/Jakarta] PHP Notice:  Undefined index: online in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/index.php on line 40
+[20-Jul-2022 13:34:06 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/index.php on line 56
+[20-Jul-2022 13:34:06 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/index.php on line 68
+[20-Jul-2022 13:34:06 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/index.php on line 75
+[20-Jul-2022 13:34:06 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/templates/sidebar/menu/approv_reg.php on line 17
+[20-Jul-2022 13:34:06 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/templates/sidebar/menu/approv_reg.php on line 21
+[20-Jul-2022 13:34:06 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/templates/sidebar/menu/approv_reg.php on line 28
+[02-Nov-2022 17:30:24 Asia/Jakarta] PHP Notice:  Undefined index: login in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/index.php on line 7
+[02-Nov-2022 17:30:24 Asia/Jakarta] PHP Notice:  Undefined index: sts_akun in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/index.php on line 15
+[02-Nov-2022 17:30:24 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/index.php on line 23
+[02-Nov-2022 17:30:24 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/index.php on line 30
+[02-Nov-2022 17:30:24 Asia/Jakarta] PHP Notice:  Undefined index: online in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/index.php on line 40
+[02-Nov-2022 17:30:24 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/index.php on line 56
+[02-Nov-2022 17:30:24 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/index.php on line 68
+[02-Nov-2022 17:30:24 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/index.php on line 75
+[02-Nov-2022 17:30:24 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/templates/sidebar/menu/verifikasi_pmk.php on line 17
+[02-Nov-2022 17:30:24 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/templates/sidebar/menu/verifikasi_pmk.php on line 21
+[02-Nov-2022 17:30:24 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/admin/templates/sidebar/menu/verifikasi_pmk.php on line 28

@@ -1,0 +1,6 @@
+[20-Feb-2022 17:17:56 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/logout.php on line 5
+[20-Feb-2022 17:17:56 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/logout.php on line 11
+[14-Mar-2022 08:46:10 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/logout.php on line 5
+[14-Mar-2022 08:46:10 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/logout.php on line 11
+[20-Jul-2022 13:34:08 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/logout.php on line 5
+[20-Jul-2022 13:34:08 Asia/Jakarta] PHP Notice:  Trying to access array offset on value of type null in /home/smkpgr14/public_html/lab.smkpgrineglasari.com/si_baranglab/logout.php on line 11
